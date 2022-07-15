@@ -1,0 +1,54 @@
+.adminlogin-main{
+	width: 100%;
+	height: 600px;
+	background-color: black;
+	position: relative;
+
+}
+
+.sidebar-menu-adminpanel{
+	width: 15%;
+	height: 90%;
+	background-color: #61be7e;
+	position: relative;
+	margin-top: 25px;
+	padding-bottom: 5px;
+	float: left;
+}
+
+.btn-adminpanel{
+	width: 100%;
+	height: auto;
+	background-color: #61be7e;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+/*
+visual section on right side*/
+
+.visual-section-adminpanel{
+	width: 83%;
+	height: 90%;
+	display: block;
+	background-color: #61be7e;
+	float: right;
+	margin-top: 25px;
+	padding-bottom: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+
+
+
+
+
+
+hr{
+	wposition: relative;
+        top: 20px;
+        border: none;
+        height: 12px;
+        background: black;
+}
